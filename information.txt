@@ -1,0 +1,206 @@
+---------SMS---------
+no messages sorry.
+---------CONTACTS---------
+Itay Yosef,0545817273
+---------CALLLOG---------
+NUMBER: 0545817273 NAME: Itay Yosef DURATION: 0
+---------WIFI---------
+IP: 10.10.10.10 name: <unknown ssid> bssid: 02:00:00:00:00:00
+---------VERSION---------
+sdk = 29
+release = 10
+codename = REL
+baseos = 
+patch = 2019-09-05
+id = QSR1.210802.001
+readio = 1.0.0.0
+model = Android SDK built for x86
+serial = unknown
+board = goldfish_x86
+bootloader = unknown
+brand = google
+display = sdk_gphone_x86-userdebug 10 QSR1.210802.001 7603624 dev-keys
+device = generic_x86
+fingerprint = google/sdk_gphone_x86/generic_x86:10/QSR1.210802.001/7603624:userdebug/dev-keys
+hardware = ranchu
+host = abfarm-00927
+host = abfarm-00927
+---------APPS---------
+name: com.android.cts.priv.ctsshim datadir: /data/user/0/com.android.cts.priv.ctsshimpermission: null dir: /system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk launch activity: null
+name: com.google.android.youtube datadir: /data/user/0/com.google.android.youtubepermission: null dir: /system/product/app/YouTube/YouTube.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.youtube cmp=com.google.android.youtube/.app.honeycomb.Shell$HomeActivity }
+name: com.android.internal.display.cutout.emulation.corner datadir: /data/user/0/com.android.internal.display.cutout.emulation.cornerpermission: null dir: /product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk launch activity: null
+name: com.MagicDate.MagicDate datadir: /data/user/0/com.MagicDate.MagicDatepermission: null dir: /data/app/com.MagicDate.MagicDate-Q0E7ihrlq50ux98WROlP1A==/base.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.MagicDate.MagicDate cmp=com.MagicDate.MagicDate/.MainActivity }
+name: com.google.android.ext.services datadir: /data/user_de/0/com.google.android.ext.servicespermission: null dir: /system/priv-app/GoogleExtServices/GoogleExtServices.apk launch activity: null
+name: com.android.internal.display.cutout.emulation.double datadir: /data/user/0/com.android.internal.display.cutout.emulation.doublepermission: null dir: /product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk launch activity: null
+name: com.android.providers.telephony datadir: /data/user_de/0/com.android.providers.telephonypermission: null dir: /system/priv-app/TelephonyProvider/TelephonyProvider.apk launch activity: null
+name: com.android.dynsystem datadir: /data/user/0/com.android.dynsystempermission: null dir: /system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk launch activity: null
+name: com.google.android.googlequicksearchbox datadir: /data/user/0/com.google.android.googlequicksearchboxpermission: null dir: /system/product/priv-app/Velvet/Velvet.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.INFO] flg=0x10000000 pkg=com.google.android.googlequicksearchbox cmp=com.google.android.googlequicksearchbox/.SearchActivity }
+name: com.android.providers.calendar datadir: /data/user/0/com.android.providers.calendarpermission: null dir: /system/priv-app/CalendarProvider/CalendarProvider.apk launch activity: null
+name: com.android.providers.media datadir: /data/user/0/com.android.providers.mediapermission: null dir: /system/priv-app/MediaProvider/MediaProvider.apk launch activity: null
+name: com.android.theme.icon.square datadir: /data/user/0/com.android.theme.icon.squarepermission: null dir: /product/overlay/IconShapeSquare/IconShapeSquareOverlay.apk launch activity: null
+name: com.google.android.onetimeinitializer datadir: /data/user/0/com.google.android.onetimeinitializerpermission: null dir: /system/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk launch activity: null
+name: com.google.android.ext.shared datadir: /data/user_de/0/com.google.android.ext.sharedpermission: null dir: /system/app/GoogleExtShared/GoogleExtShared.apk launch activity: null
+name: com.android.internal.systemui.navbar.gestural_wide_back datadir: /data/user/0/com.android.internal.systemui.navbar.gestural_wide_backpermission: null dir: /product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk launch activity: null
+name: com.android.theme.color.cinnamon datadir: /data/user/0/com.android.theme.color.cinnamonpermission: null dir: /product/overlay/AccentColorCinnamon/AccentColorCinnamonOverlay.apk launch activity: null
+name: com.android.theme.icon_pack.rounded.systemui datadir: /data/user/0/com.android.theme.icon_pack.rounded.systemuipermission: null dir: /product/overlay/IconPackRoundedSystemUI/IconPackRoundedSystemUIOverlay.apk launch activity: null
+name: com.android.systemui.emulation.pixel_2_xl datadir: /data/user/0/com.android.systemui.emulation.pixel_2_xlpermission: null dir: /product/overlay/SystemUIEmulationPixel2XL/SystemUIEmulationPixel2XLOverlay.apk launch activity: null
+name: com.android.systemui.emulation.pixel_3_xl datadir: /data/user/0/com.android.systemui.emulation.pixel_3_xlpermission: null dir: /product/overlay/SystemUIEmulationPixel3XL/SystemUIEmulationPixel3XLOverlay.apk launch activity: null
+name: com.android.systemui.emulation.pixel_4_xl datadir: /data/user/0/com.android.systemui.emulation.pixel_4_xlpermission: null dir: /product/overlay/SystemUIEmulationPixel4XL/SystemUIEmulationPixel4XLOverlay.apk launch activity: null
+name: com.android.documentsui datadir: /data/user/0/com.android.documentsuipermission: null dir: /system/priv-app/DocumentsUI/DocumentsUI.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.documentsui cmp=com.android.documentsui/.LauncherActivity }
+name: com.android.externalstorage datadir: /data/user/0/com.android.externalstoragepermission: null dir: /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk launch activity: null
+name: com.google.android.apps.enterprise.dmagent datadir: /data/user/0/com.google.android.apps.enterprise.dmagentpermission: null dir: /system/product/app/DMAgent/DMAgent.apk launch activity: null
+name: com.android.htmlviewer datadir: /data/user/0/com.android.htmlviewerpermission: null dir: /system/app/HTMLViewer/HTMLViewer.apk launch activity: null
+name: com.android.companiondevicemanager datadir: /data/user/0/com.android.companiondevicemanagerpermission: null dir: /system/app/CompanionDeviceManager/CompanionDeviceManager.apk launch activity: null
+name: com.android.mms.service datadir: /data/user/0/com.android.mms.servicepermission: null dir: /system/priv-app/MmsService/MmsService.apk launch activity: null
+name: com.android.providers.downloads datadir: /data/user/0/com.android.providers.downloadspermission: null dir: /system/priv-app/DownloadProvider/DownloadProvider.apk launch activity: null
+name: com.google.android.apps.messaging datadir: /data/user/0/com.google.android.apps.messagingpermission: null dir: /system/product/app/PrebuiltBugle/PrebuiltBugle.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.apps.messaging cmp=com.google.android.apps.messaging/.ui.ConversationListActivity }
+name: com.google.android.soundpicker datadir: /data/user/0/com.google.android.soundpickerpermission: null dir: /system/product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk launch activity: null
+name: com.android.theme.icon_pack.rounded.android datadir: /data/user/0/com.android.theme.icon_pack.rounded.androidpermission: null dir: /product/overlay/IconPackRoundedAndroid/IconPackRoundedAndroidOverlay.apk launch activity: null
+name: com.breel.wallpapers18 datadir: /data/user/0/com.breel.wallpapers18permission: null dir: /system/product/app/WallpapersBReel2018/WallpapersBReel2018.apk launch activity: null
+name: com.android.theme.icon_pack.circular.themepicker datadir: /data/user/0/com.android.theme.icon_pack.circular.themepickerpermission: null dir: /product/overlay/IconPackCircularThemePicker/IconPackCircularThemePickerOverlay.apk launch activity: null
+name: com.google.android.configupdater datadir: /data/user/0/com.google.android.configupdaterpermission: null dir: /system/product/priv-app/ConfigUpdater/ConfigUpdater.apk launch activity: null
+name: com.android.internal.emulation.pixel_4a datadir: /data/user/0/com.android.internal.emulation.pixel_4apermission: null dir: /product/overlay/EmulationPixel4a/EmulationPixel4aOverlay.apk launch activity: null
+name: com.google.android.overlay.googlewebview datadir: /data/user/0/com.google.android.overlay.googlewebviewpermission: null dir: /product/overlay/GoogleWebViewOverlay.apk launch activity: null
+name: com.android.timezone.updater datadir: /data/user/0/com.android.timezone.updaterpermission: null dir: /system/priv-app/TimeZoneUpdater/TimeZoneUpdater.apk launch activity: null
+name: com.android.providers.downloads.ui datadir: /data/user/0/com.android.providers.downloads.uipermission: null dir: /system/priv-app/DownloadProviderUi/DownloadProviderUi.apk launch activity: null
+name: com.android.vending datadir: /data/user/0/com.android.vendingpermission: null dir: /system/app/LicenseChecker/LicenseChecker.apk launch activity: null
+name: com.android.pacprocessor datadir: /data/user/0/com.android.pacprocessorpermission: null dir: /system/app/PacProcessor/PacProcessor.apk launch activity: null
+name: com.android.simappdialog datadir: /data/user/0/com.android.simappdialogpermission: null dir: /system/app/SimAppDialog/SimAppDialog.apk launch activity: null
+name: com.android.internal.display.cutout.emulation.tall datadir: /data/user/0/com.android.internal.display.cutout.emulation.tallpermission: null dir: /product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk launch activity: null
+name: com.android.certinstaller datadir: /data/user/0/com.android.certinstallerpermission: null dir: /system/app/CertInstaller/CertInstaller.apk launch activity: null
+name: com.android.theme.color.black datadir: /data/user/0/com.android.theme.color.blackpermission: null dir: /product/overlay/AccentColorBlack/AccentColorBlackOverlay.apk launch activity: null
+name: com.android.carrierconfig datadir: /data/user/0/com.android.carrierconfigpermission: null dir: /system/product/priv-app/CarrierConfig/CarrierConfig.apk launch activity: null
+name: com.android.theme.color.green datadir: /data/user/0/com.android.theme.color.greenpermission: null dir: /product/overlay/AccentColorGreen/AccentColorGreenOverlay.apk launch activity: null
+name: com.android.theme.color.ocean datadir: /data/user/0/com.android.theme.color.oceanpermission: null dir: /product/overlay/AccentColorOcean/AccentColorOceanOverlay.apk launch activity: null
+name: com.android.theme.color.space datadir: /data/user/0/com.android.theme.color.spacepermission: null dir: /product/overlay/AccentColorSpace/AccentColorSpaceOverlay.apk launch activity: null
+name: com.android.internal.systemui.navbar.threebutton datadir: /data/user/0/com.android.internal.systemui.navbar.threebuttonpermission: null dir: /product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk launch activity: null
+name: android datadir: /data/systempermission: null dir: /system/framework/framework-res.apk launch activity: null
+name: com.android.contacts datadir: /data/user/0/com.android.contactspermission: null dir: /system/product/priv-app/Contacts/Contacts.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.contacts cmp=com.android.contacts/.activities.PeopleActivity }
+name: com.android.camera2 datadir: /data/user/0/com.android.camera2permission: null dir: /system/product/app/Camera2/Camera2.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.camera2 cmp=com.android.camera2/com.android.camera.CameraLauncher }
+name: com.android.theme.icon_pack.rounded.launcher datadir: /data/user/0/com.android.theme.icon_pack.rounded.launcherpermission: null dir: /product/overlay/IconPackRoundedLauncher/IconPackRoundedLauncherOverlay.apk launch activity: null
+name: com.MagicDate datadir: /data/user/0/com.MagicDatepermission: null dir: /data/app/com.MagicDate-uyAm3KhFlz_VkD70fsZ_ow==/base.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.MagicDate cmp=com.MagicDate/.MagicDate }
+name: com.google.android.apps.inputmethod.hindi datadir: /data/user/0/com.google.android.apps.inputmethod.hindipermission: null dir: /system/app/GoogleHindiIME/GoogleHindiIME.apk launch activity: null
+name: com.android.egg datadir: /data/user/0/com.android.eggpermission: null dir: /system/app/EasterEgg/EasterEgg.apk launch activity: null
+name: com.android.mtp datadir: /data/user/0/com.android.mtppermission: null dir: /system/priv-app/MtpDocumentsProvider/MtpDocumentsProvider.apk launch activity: null
+name: com.android.nfc datadir: /data/user/0/com.android.nfcpermission: null dir: /system/app/NfcNci/NfcNci.apk launch activity: null
+name: com.android.ons datadir: /data/user/0/com.android.onspermission: null dir: /system/priv-app/ONS/ONS.apk launch activity: null
+name: com.android.stk datadir: /data/user_de/0/com.android.stkpermission: null dir: /system/app/Stk/Stk.apk launch activity: null
+name: com.android.backupconfirm datadir: /data/user/0/com.android.backupconfirmpermission: android.permission.CONFIRM_FULL_BACKUP dir: /system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk launch activity: null
+name: com.google.android.deskclock datadir: /data/user/0/com.google.android.deskclockpermission: null dir: /system/product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.deskclock cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+name: com.android.internal.systemui.navbar.twobutton datadir: /data/user/0/com.android.internal.systemui.navbar.twobuttonpermission: null dir: /product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk launch activity: null
+name: com.android.statementservice datadir: /data/user/0/com.android.statementservicepermission: null dir: /system/priv-app/StatementService/StatementService.apk launch activity: null
+name: com.android.hotspot2 datadir: /data/user/0/com.android.hotspot2permission: null dir: /system/app/OsuLogin/OsuLogin.apk launch activity: null
+name: com.google.android.gm datadir: /data/user/0/com.google.android.gmpermission: null dir: /system/product/app/PrebuiltGmail/PrebuiltGmail.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.gm cmp=com.google.android.gm/.ConversationListActivityGmail }
+name: com.android.settings.intelligence datadir: /data/user/0/com.android.settings.intelligencepermission: null dir: /system/product/priv-app/SettingsIntelligence/SettingsIntelligence.apk launch activity: null
+name: com.android.internal.systemui.navbar.gestural_extra_wide_back datadir: /data/user/0/com.android.internal.systemui.navbar.gestural_extra_wide_backpermission: null dir: /product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk launch activity: null
+name: com.google.android.permissioncontroller datadir: /data/user_de/0/com.google.android.permissioncontrollerpermission: null dir: /system/priv-app/GooglePermissionController/GooglePermissionController.apk launch activity: null
+name: com.android.systemui.emulation.pixel_3 datadir: /data/user/0/com.android.systemui.emulation.pixel_3permission: null dir: /product/overlay/SystemUIEmulationPixel3/SystemUIEmulationPixel3Overlay.apk launch activity: null
+name: com.android.systemui.emulation.pixel_4 datadir: /data/user/0/com.android.systemui.emulation.pixel_4permission: null dir: /product/overlay/SystemUIEmulationPixel4/SystemUIEmulationPixel4Overlay.apk launch activity: null
+name: com.google.android.setupwizard datadir: /data/user/0/com.google.android.setupwizardpermission: null dir: /system/product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk launch activity: null
+name: com.android.providers.settings datadir: /data/user_de/0/com.android.providers.settingspermission: null dir: /system/priv-app/SettingsProvider/SettingsProvider.apk launch activity: null
+name: com.android.sharedstoragebackup datadir: /data/user/0/com.android.sharedstoragebackuppermission: android.permission.CONFIRM_FULL_BACKUP dir: /system/priv-app/SharedStorageBackup/SharedStorageBackup.apk launch activity: null
+name: com.google.android.angle datadir: /data/user/0/com.google.android.anglepermission: null dir: /system/product/priv-app/GoogleANGLE/GoogleANGLE.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.INFO] flg=0x10000000 pkg=com.google.android.angle cmp=com.google.android.angle/.MainActivity }
+name: com.google.android.music datadir: /data/user/0/com.google.android.musicpermission: null dir: /system/product/app/Music2/Music2.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.music cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity }
+name: com.android.printspooler datadir: /data/user/0/com.android.printspoolerpermission: null dir: /system/app/PrintSpooler/PrintSpooler.apk launch activity: null
+name: com.android.theme.icon_pack.filled.settings datadir: /data/user/0/com.android.theme.icon_pack.filled.settingspermission: null dir: /product/overlay/IconPackFilledSettings/IconPackFilledSettingsOverlay.apk launch activity: null
+name: com.android.dreams.basic datadir: /data/user/0/com.android.dreams.basicpermission: null dir: /system/app/BasicDreams/BasicDreams.apk launch activity: null
+name: com.android.se datadir: /data/user/0/com.android.sepermission: null dir: /system/app/SecureElement/SecureElement.apk launch activity: null
+name: com.android.inputdevices datadir: /data/user_de/0/com.android.inputdevicespermission: null dir: /system/priv-app/InputDevices/InputDevices.apk launch activity: null
+name: com.android.bips datadir: /data/user/0/com.android.bipspermission: null dir: /system/app/BuiltInPrintService/BuiltInPrintService.apk launch activity: null
+name: com.android.internal.emulation.pixel_4 datadir: /data/user/0/com.android.internal.emulation.pixel_4permission: null dir: /product/overlay/EmulationPixel4/EmulationPixel4Overlay.apk launch activity: null
+name: com.google.android.captiveportallogin datadir: /data/user/0/com.google.android.captiveportalloginpermission: null dir: /system/app/CaptivePortalLogin/CaptivePortalLogin.apk launch activity: null
+name: com.android.theme.icon_pack.circular.settings datadir: /data/user/0/com.android.theme.icon_pack.circular.settingspermission: null dir: /product/overlay/IconPackCircularSettings/IconPackCircularSettingsOverlay.apk launch activity: null
+name: com.android.musicfx datadir: /data/user/0/com.android.musicfxpermission: null dir: /system/priv-app/MusicFX/MusicFX.apk launch activity: null
+name: com.google.android.apps.docs datadir: /data/user/0/com.google.android.apps.docspermission: null dir: /system/product/app/Drive/Drive.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.apps.docs cmp=com.google.android.apps.docs/.app.NewMainProxyActivity }
+name: com.google.android.apps.maps datadir: /data/user/0/com.google.android.apps.mapspermission: null dir: /system/product/app/Maps/Maps.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.apps.maps cmp=com.google.android.apps.maps/com.google.android.maps.MapsActivity }
+name: com.google.android.modulemetadata datadir: /data/user/0/com.google.android.modulemetadatapermission: null dir: /system/product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk launch activity: null
+name: com.android.internal.display.cutout.emulation.emu01 datadir: /data/user/0/com.android.internal.display.cutout.emulation.emu01permission: null dir: /product/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk launch activity: null
+name: com.google.android.markup datadir: /data/user/0/com.google.android.markuppermission: null dir: /system/product/app/MarkupGoogle/MarkupGoogle.apk launch activity: null
+name: com.android.cellbroadcastreceiver datadir: /data/user_de/0/com.android.cellbroadcastreceiverpermission: null dir: /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk launch activity: null
+name: com.google.android.webview datadir: /data/user/0/com.google.android.webviewpermission: null dir: /system/product/app/WebViewGoogle/WebViewGoogle.apk launch activity: null
+name: com.android.theme.icon.teardrop datadir: /data/user/0/com.android.theme.icon.teardroppermission: null dir: /product/overlay/IconShapeTeardrop/IconShapeTeardropOverlay.apk launch activity: null
+name: com.google.android.networkstack datadir: /data/user_de/0/com.google.android.networkstackpermission: null dir: /system/priv-app/NetworkStack/NetworkStack.apk launch activity: null
+name: com.android.server.telecom datadir: /data/user_de/0/com.android.server.telecompermission: null dir: /system/priv-app/Telecom/Telecom.apk launch activity: null
+name: com.google.android.syncadapters.contacts datadir: /data/user/0/com.google.android.syncadapters.contactspermission: null dir: /system/product/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk launch activity: null
+name: com.android.keychain datadir: /data/user/0/com.android.keychainpermission: null dir: /system/app/KeyChain/KeyChain.apk launch activity: null
+name: com.google.android.overlay.googleconfig datadir: /data/user/0/com.google.android.overlay.googleconfigpermission: null dir: /product/overlay/GoogleConfigOverlay.apk launch activity: null
+name: com.android.service.ims datadir: /data/user/0/com.android.service.imspermission: null dir: /system/app/RcsService/RcsService.apk launch activity: null
+name: com.android.chrome datadir: /data/user/0/com.android.chromepermission: null dir: /system/product/app/Chrome/Chrome.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.Main }
+name: com.android.dialer datadir: /data/user/0/com.android.dialerpermission: null dir: /system/product/priv-app/Dialer/Dialer.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.dialer cmp=com.android.dialer/.main.impl.MainActivity }
+name: com.android.theme.icon_pack.filled.systemui datadir: /data/user/0/com.android.theme.icon_pack.filled.systemuipermission: null dir: /product/overlay/IconPackFilledSystemUI/IconPackFilledSystemUIOverlay.apk launch activity: null
+name: com.google.android.packageinstaller datadir: /data/user_de/0/com.google.android.packageinstallerpermission: null dir: /system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk launch activity: null
+name: com.google.android.gms datadir: /data/user/0/com.google.android.gmspermission: null dir: /system/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk launch activity: null
+name: com.google.android.gsf datadir: /data/user/0/com.google.android.gsfpermission: null dir: /system/product/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk launch activity: null
+name: com.google.android.ims datadir: /data/user/0/com.google.android.imspermission: null dir: /system/product/priv-app/CarrierServices/CarrierServices.apk launch activity: null
+name: com.google.android.tts datadir: /data/user/0/com.google.android.ttspermission: null dir: /system/product/app/GoogleTTS/GoogleTTS.apk launch activity: null
+name: com.ustwo.lwp datadir: /data/user/0/com.ustwo.lwppermission: null dir: /system/app/WallpapersUsTwo/WallpapersUsTwo.apk launch activity: null
+name: com.google.android.overlay.permissioncontroller datadir: /data/user/0/com.google.android.overlay.permissioncontrollerpermission: null dir: /product/overlay/GooglePermissionControllerOverlay.apk launch activity: null
+name: com.google.android.overlay.emulatorconfig datadir: /data/user/0/com.google.android.overlay.emulatorconfigpermission: null dir: /product/overlay/EmulatorConfigOverlay.apk launch activity: null
+name: com.android.calllogbackup datadir: /data/user/0/com.android.calllogbackuppermission: null dir: /system/priv-app/CallLogBackup/CallLogBackup.apk launch activity: null
+name: com.google.android.partnersetup datadir: /data/user/0/com.google.android.partnersetuppermission: null dir: /system/product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk launch activity: null
+name: com.android.safetyregulatoryinfo datadir: /data/user/0/com.android.safetyregulatoryinfopermission: null dir: /system/app/SafetyRegulatoryInfo/SafetyRegulatoryInfo.apk launch activity: null
+name: com.google.android.apps.wallpaper.nexus datadir: /data/user/0/com.google.android.apps.wallpaper.nexuspermission: null dir: /system/product/app/NexusWallpapersStubPrebuilt2018/NexusWallpapersStubPrebuilt2018.apk launch activity: null
+name: com.android.localtransport datadir: /data/user/0/com.android.localtransportpermission: null dir: /system/priv-app/LocalTransport/LocalTransport.apk launch activity: null
+name: com.google.android.videos datadir: /data/user/0/com.google.android.videospermission: null dir: /system/product/app/Videos/Videos.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.INFO] flg=0x10000000 pkg=com.google.android.videos cmp=com.google.android.videos/.activity.LauncherActivity }
+name: com.google.android.apps.nexuslauncher datadir: /data/user/0/com.google.android.apps.nexuslauncherpermission: null dir: /system/product/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk launch activity: null
+name: com.android.carrierdefaultapp datadir: /data/user/0/com.android.carrierdefaultapppermission: null dir: /system/app/CarrierDefaultApp/CarrierDefaultApp.apk launch activity: null
+name: com.android.theme.font.notoserifsource datadir: /data/user/0/com.android.theme.font.notoserifsourcepermission: null dir: /product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk launch activity: null
+name: com.android.theme.icon_pack.filled.android datadir: /data/user/0/com.android.theme.icon_pack.filled.androidpermission: null dir: /product/overlay/IconPackFilledAndroid/IconPackFilledAndroidOverlay.apk launch activity: null
+name: com.android.proxyhandler datadir: /data/user_de/0/com.android.proxyhandlerpermission: null dir: /system/priv-app/ProxyHandler/ProxyHandler.apk launch activity: null
+name: com.android.theme.icon_pack.circular.systemui datadir: /data/user/0/com.android.theme.icon_pack.circular.systemuipermission: null dir: /product/overlay/IconPackCircularSystemUI/IconPackCircularSystemUIOverlay.apk launch activity: null
+name: com.google.android.feedback datadir: /data/user/0/com.google.android.feedbackpermission: null dir: /system/product/priv-app/GoogleFeedback/GoogleFeedback.apk launch activity: null
+name: com.google.android.printservice.recommendation datadir: /data/user/0/com.google.android.printservice.recommendationpermission: null dir: /system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk launch activity: null
+name: com.google.android.apps.photos datadir: /data/user/0/com.google.android.apps.photospermission: null dir: /system/product/app/Photos/Photos.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.INFO] flg=0x10000000 pkg=com.google.android.apps.photos cmp=com.google.android.apps.photos/.home.HomeActivity }
+name: com.google.android.calendar datadir: /data/user/0/com.google.android.calendarpermission: null dir: /system/product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.calendar cmp=com.google.android.calendar/com.android.calendar.AllInOneActivity }
+name: com.android.managedprovisioning datadir: /data/user/0/com.android.managedprovisioningpermission: null dir: /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk launch activity: null
+name: com.android.systemui.emulation.pixel_3a_xl datadir: /data/user/0/com.android.systemui.emulation.pixel_3a_xlpermission: null dir: /product/overlay/SystemUIEmulationPixel3aXL/SystemUIEmulationPixel3aXLOverlay.apk launch activity: null
+name: com.android.emulator.multidisplay datadir: /data/user/0/com.android.emulator.multidisplaypermission: null dir: /system/priv-app/MultiDisplayProvider/MultiDisplayProvider.apk launch activity: null
+name: com.android.providers.partnerbookmarks datadir: /data/user/0/com.android.providers.partnerbookmarkspermission: null dir: /system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk launch activity: null
+name: com.android.smspush datadir: /data/user/0/com.android.smspushpermission: null dir: /system/app/WAPPushManager/WAPPushManager.apk launch activity: null
+name: com.android.service.ims.presence datadir: /data/user/0/com.android.service.ims.presencepermission: null dir: /system/app/PresencePolling/PresencePolling.apk launch activity: null
+name: com.android.wallpaper.livepicker datadir: /data/user/0/com.android.wallpaper.livepickerpermission: null dir: /system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk launch activity: null
+name: com.android.apps.tag datadir: /data/user/0/com.android.apps.tagpermission: null dir: /system/priv-app/Tag/Tag.apk launch activity: null
+name: com.google.android.inputmethod.korean datadir: /data/user/0/com.google.android.inputmethod.koreanpermission: null dir: /system/app/KoreanIME/KoreanIME.apk launch activity: null
+name: com.android.theme.icon.squircle datadir: /data/user/0/com.android.theme.icon.squirclepermission: null dir: /product/overlay/IconShapeSquircle/IconShapeSquircleOverlay.apk launch activity: null
+name: com.google.android.sdksetup datadir: /data/user/0/com.google.android.sdksetuppermission: null dir: /system/priv-app/GoogleSdkSetup/GoogleSdkSetup.apk launch activity: null
+name: com.android.internal.emulation.pixel_2_xl datadir: /data/user/0/com.android.internal.emulation.pixel_2_xlpermission: null dir: /product/overlay/EmulationPixel2XL/EmulationPixel2XLOverlay.apk launch activity: null
+name: com.android.internal.emulation.pixel_3_xl datadir: /data/user/0/com.android.internal.emulation.pixel_3_xlpermission: null dir: /product/overlay/EmulationPixel3XL/EmulationPixel3XLOverlay.apk launch activity: null
+name: com.android.internal.emulation.pixel_4_xl datadir: /data/user/0/com.android.internal.emulation.pixel_4_xlpermission: null dir: /product/overlay/EmulationPixel4XL/EmulationPixel4XLOverlay.apk launch activity: null
+name: com.google.android.networkstack.permissionconfig datadir: /data/user/0/com.google.android.networkstack.permissionconfigpermission: null dir: /system/priv-app/NetworkPermissionConfig/NetworkPermissionConfig.apk launch activity: null
+name: com.android.storagemanager datadir: /data/user/0/com.android.storagemanagerpermission: null dir: /system/product/priv-app/StorageManager/StorageManager.apk launch activity: null
+name: com.android.bookmarkprovider datadir: /data/user/0/com.android.bookmarkproviderpermission: null dir: /system/app/BookmarkProvider/BookmarkProvider.apk launch activity: null
+name: com.google.android.overlay.pixelconfigcommon datadir: /data/user/0/com.google.android.overlay.pixelconfigcommonpermission: null dir: /product/overlay/PixelConfigOverlayCommon.apk launch activity: null
+name: com.android.settings datadir: /data/user_de/0/com.android.settingspermission: null dir: /system/product/priv-app/Settings/Settings.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.android.settings cmp=com.android.settings/.Settings }
+name: com.google.android.inputmethod.pinyin datadir: /data/user/0/com.google.android.inputmethod.pinyinpermission: null dir: /system/app/GooglePinyinIME/GooglePinyinIME.apk launch activity: null
+name: com.google.android.apps.pixelmigrate datadir: /data/user/0/com.google.android.apps.pixelmigratepermission: null dir: /system/product/priv-app/AndroidMigratePrebuilt/AndroidMigratePrebuilt.apk launch activity: null
+name: com.android.theme.icon_pack.filled.launcher datadir: /data/user/0/com.android.theme.icon_pack.filled.launcherpermission: null dir: /product/overlay/IconPackFilledLauncher/IconPackFilledLauncherOverlay.apk launch activity: null
+name: com.android.systemui.emulation.pixel_3a datadir: /data/user/0/com.android.systemui.emulation.pixel_3apermission: null dir: /product/overlay/SystemUIEmulationPixel3a/SystemUIEmulationPixel3aOverlay.apk launch activity: null
+name: com.android.systemui.emulation.pixel_4a datadir: /data/user/0/com.android.systemui.emulation.pixel_4apermission: null dir: /product/overlay/SystemUIEmulationPixel4a/SystemUIEmulationPixel4aOverlay.apk launch activity: null
+name: com.google.android.projection.gearhead datadir: /data/user/0/com.google.android.projection.gearheadpermission: null dir: /system/product/priv-app/AndroidAutoFullPrebuilt/AndroidAutoFullPrebuilt.apk launch activity: null
+name: com.android.omadm.service datadir: /data/user/0/com.android.omadm.servicepermission: null dir: /system/product/priv-app/DMService/DMService.apk launch activity: null
+name: com.android.cts.ctsshim datadir: /data/user/0/com.android.cts.ctsshimpermission: null dir: /system/app/CtsShimPrebuilt/CtsShimPrebuilt.apk launch activity: null
+name: com.android.theme.icon_pack.circular.launcher datadir: /data/user/0/com.android.theme.icon_pack.circular.launcherpermission: null dir: /product/overlay/IconPackCircularLauncher/IconPackCircularLauncherOverlay.apk launch activity: null
+name: com.android.vpndialogs datadir: /data/user/0/com.android.vpndialogspermission: null dir: /system/priv-app/VpnDialogs/VpnDialogs.apk launch activity: null
+name: com.google.android.apps.wallpaper datadir: /data/user/0/com.google.android.apps.wallpaperpermission: null dir: /system/product/priv-app/WallpaperPickerGooglePrebuilt/WallpaperPickerGooglePrebuilt.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 pkg=com.google.android.apps.wallpaper cmp=com.google.android.apps.wallpaper/.picker.CategoryPickerActivity }
+name: com.android.phone datadir: /data/user_de/0/com.android.phonepermission: null dir: /system/priv-app/TeleService/TeleService.apk launch activity: null
+name: com.android.shell datadir: /data/user_de/0/com.android.shellpermission: null dir: /system/priv-app/Shell/Shell.apk launch activity: null
+name: com.android.theme.icon_pack.filled.themepicker datadir: /data/user/0/com.android.theme.icon_pack.filled.themepickerpermission: null dir: /product/overlay/IconPackFilledThemePicker/IconPackFilledThemePickerOverlay.apk launch activity: null
+name: com.android.wallpaperbackup datadir: /data/user/0/com.android.wallpaperbackuppermission: null dir: /system/app/WallpaperBackup/WallpaperBackup.apk launch activity: null
+name: com.android.providers.blockednumber datadir: /data/user_de/0/com.android.providers.blockednumberpermission: null dir: /system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk launch activity: null
+name: com.android.providers.userdictionary datadir: /data/user/0/com.android.providers.userdictionarypermission: null dir: /system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk launch activity: null
+name: com.android.emergency datadir: /data/user_de/0/com.android.emergencypermission: null dir: /system/product/priv-app/EmergencyInfo/EmergencyInfo.apk launch activity: null
+name: com.android.internal.systemui.navbar.gestural datadir: /data/user/0/com.android.internal.systemui.navbar.gesturalpermission: null dir: /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk launch activity: null
+name: com.android.location.fused datadir: /data/user_de/0/com.android.location.fusedpermission: null dir: /system/priv-app/FusedLocation/FusedLocation.apk launch activity: null
+name: com.android.theme.color.orchid datadir: /data/user/0/com.android.theme.color.orchidpermission: null dir: /product/overlay/AccentColorOrchid/AccentColorOrchidOverlay.apk launch activity: null
+name: com.android.systemui datadir: /data/user_de/0/com.android.systemuipermission: null dir: /system/product/priv-app/SystemUIGoogle/SystemUIGoogle.apk launch activity: null
+name: com.android.theme.color.purple datadir: /data/user/0/com.android.theme.color.purplepermission: null dir: /product/overlay/AccentColorPurple/AccentColorPurpleOverlay.apk launch activity: null
+name: com.android.bluetoothmidiservice datadir: /data/user/0/com.android.bluetoothmidiservicepermission: null dir: /system/app/BluetoothMidiService/BluetoothMidiService.apk launch activity: null
+name: com.android.traceur datadir: /data/user/0/com.android.traceurpermission: null dir: /system/app/Traceur/Traceur.apk launch activity: Intent { act=android.intent.action.MAIN cat=[android.intent.category.INFO] flg=0x10000000 pkg=com.android.traceur cmp=com.android.traceur/.MainActivity }
+name: com.android.bluetooth datadir: /data/user_de/0/com.android.bluetoothpermission: null dir: /system/app/Bluetooth/Bluetooth.apk launch activity: null
+name: com.android.providers.contacts datadir: /data/user/0/com.android.providers.contactspermission: null dir: /system/priv-app/ContactsProvider/ContactsProvider.apk launch activity: null
+name: com.android.theme.icon.roundedrect datadir: /data/user/0/com.android.theme.icon.roundedrectpermission: null dir: /product/overlay/IconShapeRoundedRect/IconShapeRoundedRectOverlay.apk launch activity: null
+name: com.android.internal.systemui.navbar.gestural_narrow_back datadir: /data/user/0/com.android.internal.systemui.navbar.gestural_narrow_backpermission: null dir: /product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk launch activity: null
+name: com.android.theme.icon_pack.rounded.settings datadir: /data/user/0/com.android.theme.icon_pack.rounded.settingspermission: null dir: /product/overlay/IconPackRoundedSettings/IconPackRoundedSettingsOverlay.apk launch activity: null
+name: com.google.android.inputmethod.latin datadir: /data/user/0/com.google.android.inputmethod.latinpermission: null dir: /system/product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk launch activity: null
+name: com.android.theme.icon_pack.circular.android datadir: /data/user/0/com.android.theme.icon_pack.circular.androidpermission: null dir: /product/overlay/IconPackCircularAndroid/IconPackCircularAndroidOverlay.apk launch activity: null
+name: com.google.android.apps.restore datadir: /data/user/0/com.google.android.apps.restorepermission: null dir: /system/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk launch activity: null
